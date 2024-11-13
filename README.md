@@ -1,4 +1,4 @@
-# Tron-Game
+# Tron Game
 
 The code implement the TRON game, which is based on the TRON Film released in 1984.
 To start the game, just run the server.py with python then run the client.py
