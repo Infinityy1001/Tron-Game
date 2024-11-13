@@ -10,7 +10,7 @@ The color of the bike are random
 ## About the game
 It's a snake-like game where you have to control a bike with a tail. You die, if you drive in the tail of an enemy (or in you're own tail) or in the border of the field. The goal is to be the last driver surviving.
 
-Have fun
+It is a computer science project realised in Institute of Futur Technologies, Paris, France
 
 ## Video Demo
 https://www.loom.com/share/5579e10afe1a451ba5a2b86766866343
